@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap)
+
+body{
+  front-family: verdana, geneva, tahoma, sans-serif;
+  margin: 0;
+
+}
+
+header{
+     padding: 40px;
+     text-align:center;
+
+}
+
+h1{
+    color:blueviolet;
+    front-size: 3em;
+
+
+}
+main{
+
+    padding: 30px;
+}
